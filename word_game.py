@@ -15,5 +15,5 @@ class Word:
     using the append method. Thank You!
     
     """
-    names = ["Sebastian Garcia", "Christopher Yardley", "Ivan Tan"]
+    names = ["Sebastian Garcia", "Christopher Yardley", "Ivan Tan","Daniel Lobaccaro"]
     print(names) 
